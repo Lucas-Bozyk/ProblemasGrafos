@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Virtualenv
+env/
+venv/
+.venv/
+.Python
+*.pyo
+*.pyd
+
+# Django
+db.sqlite3
+/static/
+media/
+
+# VS Code
+.vscode/
+
+# Pipenv
+Pipfile.lock
